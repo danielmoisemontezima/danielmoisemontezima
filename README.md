@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Daniel Moise Montezima,
+- ✨ I am a sofware engineer and a student for a master's degree in computer systems and networks,
+- 👀 I’m interested in Web developement, frontend development, backend development,
+-     I have a preference for backend development, which involves server-side programming and database management
+- 🌱 I’m currently learning laravel
+- 💞️ I’m looking to collaborate on projects that can help me grow in the field of web development.
+- 📫 How to reach me:
+- Vkontake @danielmoiz
